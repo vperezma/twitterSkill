@@ -3,20 +3,17 @@
   "name": "alexa_boilerplate",
   "version": "v1.0.0",
   "description": "A skill for Amazon Alexa",
-
-  "scripts": {
-  },
-
+  "scripts": {},
   "dependencies": {
-    "config" : "1.16.0",
-    "alexa-app" : "2.2.0"
+    "config": "1.16.0",
+    "alexa-app": "2.2.0"
   },
-
   "devDependencies": {
     "aws-sdk": "latest",
     "grunt": "0.4.*",
     "grunt-aws-lambda": "0.8.0",
+    "gulp": "^3.9.1",
+    "gulp-zip": "^3.2.0",
     "npm": "^2.8.3"
   }
-
 }
