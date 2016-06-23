@@ -6,7 +6,7 @@
   "scripts": {},
   "dependencies": {
     "config": "1.16.0",
-    "alexa-app": "2.2.0"
+    "alexa-app": "2.3.4"
   },
   "devDependencies": {
     "aws-sdk": "latest",
