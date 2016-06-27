@@ -13,7 +13,6 @@ node_modules
 
 # PROJECT SPECIFIC
 dist
-default.json
 .idea/compiler.xml
 .idea/copyright/
 .idea/development-boilerplate.iml
