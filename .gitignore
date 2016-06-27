@@ -21,3 +21,4 @@ dist
 .idea/modules.xml
 .idea/workspace.xml
 examples/
+gulpfile.js
