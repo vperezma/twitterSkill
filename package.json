@@ -4,8 +4,9 @@
   "description": "A skill for Amazon Alexa",
   "scripts": {},
   "dependencies": {
+    "alexa-app": "latest",
     "config": "1.16.0",
-    "alexa-app": "latest"
+    "twitter": "^1.4.0"
   },
   "devDependencies": {
     "aws-sdk": "latest",
